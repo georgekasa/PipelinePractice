@@ -33,7 +33,7 @@ def writeCategorical(columnofDf, filename):
             
             
 #dataset loading and printing a sample of 10 rows
-df = pd.read_csv('/home/gkasap/Desktop/stout_case_study_angelos_alexopoulos-main/loans_full_schema.csv')
+df = pd.read_csv('/home/gkasap/Desktop/stout_case_studyloans_full_schema.csv')
 df.sample(10)
 
 #Dataset shape -
